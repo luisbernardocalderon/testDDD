@@ -2,4 +2,4 @@ print(8)
 
 print (8888888888888888888888888)
 
-print ("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+print("asdasdas")
